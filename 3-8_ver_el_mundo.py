@@ -1,0 +1,15 @@
+mundo = ['rio de janeiro', 'santa marta', 'patagonia', 'antigua', 'machupichu']
+
+print(f'Lista orginal 1: {mundo}')
+print(f'Lista ordenada:{sorted(mundo)}')
+print(f'Lista orginal 2: {mundo}')
+print(f'Lista ordenada inversa: {sorted(mundo, reverse=True)}')
+print(f'Lista orginal 3: {mundo}')
+mundo.reverse()
+print(f'Lista invertida: {mundo}')
+mundo.reverse()
+print(f'Lista original con un doble reverse: {mundo}')
+mundo.sort()
+print(f'Lista ordenada con sort: {mundo}')
+mundo.sort(reverse=True)
+print(f'Lista ordenada inverso con sort: {mundo}')
