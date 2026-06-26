@@ -1,0 +1,6 @@
+En python se puede programar diversas funcionalidades y ejecuciones 
+de programas ya sea con el paradigma orientado a objetos o paradigma 
+funcional. en python se pueden crear bucles con las sentencias 'while' 
+o sentencia for. Existen ademas formas muy intuitivas para crear formulas 
+y operaciones y condicionales. COn todo lo anterior, python es un lenguje 
+que permite mas que escribir un lenguaje extraño, escribir casi de forma natual.
